@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# FLAME-Vision: Aerial Wildfire Detection & Localization
+# FLAME-Vision: Wildfire Detection on Edge Devices
 
-Project developed for the **Computer Vision** course. The system implements a complete end-to-end pipeline 
-(from MLOps data management to deployment) for detecting and localizing wildfires from aerial images using the **FLAME** dataset.
+Project developed for the **Computer Vision** course. The system implements an end-to-end pipeline, from data versioning
+to model release, for detecting fire with bounding boxes on a **Raspberry Pi 5**.
