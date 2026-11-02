@@ -1,4 +1,4 @@
-site_name: FLAME-Vision, Aerial Wildfire Detection & Localization
+site_name: FLAME-Vision, Wildfire Detection on Edge Devices
 site_description: Computer vision project
 theme:
   name: material
