@@ -1,5 +1,7 @@
 import gradio as gr
+import spaces
 
+@spaces.GPU
 def detect(image):
     return image
 
