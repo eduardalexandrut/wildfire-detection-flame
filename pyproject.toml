@@ -1,0 +1,10 @@
+[project]
+name = "wildfire-detection-flame"
+version = "0.1.0"
+description = "Fire detection with bounding boxes on edge devices"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+docs = ["mkdocs<2"]
